@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skondre
-- 👀 I’m interested in gaming, especially
+- 👀 I’m interested in gaming, especially minecraft
 - 🌱 I’m currently learning how to code with Java Script
 - 📫 How to reach me: https://discord.gg/ttyyVdSxPB
 
